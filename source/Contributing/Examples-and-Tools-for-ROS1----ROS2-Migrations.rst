@@ -23,4 +23,4 @@ Useful tools
 ------------
 
 -  Amazon has exposed their tools for porting ROS1 robots to ROS2
-   https://github.com/awslabs/ros2-migration-tools/tree/master/ros2\_migration/porting\_tools
+   https://github.com/awslabs/ros2-migration-tools/tree/master
