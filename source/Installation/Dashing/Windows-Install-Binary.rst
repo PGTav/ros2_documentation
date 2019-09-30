@@ -39,7 +39,7 @@ Install OpenSSL
 ^^^^^^^^^^^^^^^
 
 Download an OpenSSL installer from `this page <https://slproweb.com/products/Win32OpenSSL.html>`__.
-Scroll to the bottom of the page and download *Win64 OpenSSL v1.0.2*.
+Scroll to the bottom of the page and download *Win64 OpenSSL v1.0.2t*.
 Don't download the Win32 or Light versions.
 
 Run the installer with default parameters.
